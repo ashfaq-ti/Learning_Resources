@@ -1,10 +1,4 @@
-open-api-key : 
-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
 
-
-
-
-
-Groq api key : 
+Groq api : 
 
 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
